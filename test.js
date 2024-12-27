@@ -1,2 +1,1 @@
-// Modified content
-console.log('modified');
+// Conflit volontaire
