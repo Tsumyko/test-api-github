@@ -1,0 +1,1 @@
+export const formatData = (data) => data.map(item => ({...item}));

@@ -1,1 +1,5 @@
-IyBUZXN0IEFQSSBHaXRIdWIKUmVwbyBkZSB0ZXN0IHBvdXIgYW5hbHlzZXIgbGUgY29tcG9ydGVtZW50IGRlIGwnQVBJIEdpdEh1Yg==
+# Test Repo
+## Usage
+```js
+import { formatData } from './utils/helpers';
+```
