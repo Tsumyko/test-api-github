@@ -1,2 +1,2 @@
-// Test content
-console.log('hello');
+// Modified content
+console.log('modified');
